@@ -1,5 +1,5 @@
 ## Interface: 120005, 120007
-## Title: SimpleRareElite
+## Title: |cFF1ABC9CSimpleRareElite|r
 ## Name: SimpleRareElite
 ## Version: 1.30
 ## Author: Meky / Credits: Hati / SUF: Eskiso / Mod: Kirri
@@ -34,4 +34,5 @@
 ## X-Curse-Project-ID: simplerareelite
 ## X-Localization: enUS
 
-SimpleRareElite.lua
+Core.lua
+Config.lua
