@@ -1,8 +1,8 @@
-## Interface: 120005, 120007
+## Interface: 120005, 120007, 16001
 ## Title: |cFF1ABC9CSimpleRareElite|r
 ## Name: SimpleRareElite
-## Version: 1.30
-## Author: Meky / Credits: Hati / SUF: Eskiso / Mod: Kirri
+## Version: 1.31
+## Author: Meky / Credits: Hati / SUF&Forever: Eskiso / Mod: Kirri
 ## Notes: Display textures for Boss/Elite/Rare/RareElite on Shadowed Unit Frames
 ## Category-enUS: Unit Frames
 ## Category-deDE: Einheitenfenster
